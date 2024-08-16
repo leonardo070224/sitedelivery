@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+}
+   
+#cabecalio{
+   background-color: red;
+   height: 120px;
+   display: flex;
+   align-items: center;
+   gap: 90px;
+   padding-left: 50px;
+   font-size: 30px;
+   
+   
+
+}
+
+#imagem{
+  height: 190px;
+  
+
+}
+
+#texto{
+    font-size: 60px;
+    margin-top: 70px;
+    margin-left: 85px;
+}
+
+#texto1{
+    font-size: 60px;
+    margin-left: 230px;
+    color: red;
+}
+
+#texto2{
+    padding-left: 100px;
+    width: 690px;
+    font-size: 40px;
+    margin-top: 60px;
+
+}
+
+#pizza{
+
+    height: 440px;
+   margin-bottom: 1000%;
+   position: absolute;
+   left: 50%; 
+   top: 35%;
+    
+}
+
+
+body{
+    background-color: #F3EFCA;
+    height: 100%;
+}
+
+#pedido{
+    margin-top: 350px;
+    margin-left: 750px;
+}
+
+#pedido button{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: none;
+}
+
+#pizza_bebidas{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15vh;
+}
+.pizza_bebidas{
+    background-color: white;
+    width: 20%;
+    height: 90%;
+}
+
+#titulo{
+    margin-left: 700px;
+    margin-top: 110px;
+    font-size: 70px;
+   
+}
+
+#texto3{
+    width: 1800px;
+    font-size: 30px;
+    margin-top: 60px; 
+    padding-left: 60px;  
+    text-align: center;
+    
+   
+}
+
+#faster{
+    color: red;
+}
+
+#titulo1{
+    margin-left: 800px;
+    margin-top: 110px;
+    font-size: 70px;
+}
+
+input{
+    display: block;
+    margin-left: 300px;
+    margin-top: 60px;
+    height: 130px;
+    width: 1400px;
+    border: none;
+    
+}
+
+::placeholder { font-size: 40px;
+color: red;
+padding-left: 30px;
+border: none;
+
+}
+
+a{
+    color: black;
+
+}
+
+
+#pedir{
+    padding: 20px 30px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 30px 0;
+    color: red;
+    margin-left: 210PX;
+}
+
+#campos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-right: 200px;
+}
+
+#sabores{
+    margin-left: 50px;
+    font-size: 45px;
+}
+
+
+#titulo2{
+    margin-left: 800px;
+    margin-top: 110px;
+    font-size: 70px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+   text-align: center;
+  }
+.grid-item img {
+    width: 400px;
+    height: 350px;
+}
+
+#titulo3{
+    margin-left: 800px;
+    margin-top: 110px;
+    font-size: 70px;
+}
+
+#pedir1{
+    padding: 20px 30px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 30px 0;
+    color: red;
+    margin-left: 210px;
+}
+
+#titulo4{
+    margin-left: 800px;
+    margin-top: 110px;
+    font-size: 70px;
+}
+
+
+#cadastrobot button{
+    padding: 20px 30px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 30px 0;
+    color: red;
+    margin-left: 900px;
+    margin-top: 70px;
+    border: none;
+   
+}
+
+#contatobot button{
+    padding: 20px 30px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 30px 0;
+    color: red;
+    margin-left: 200px;
+    margin-top: 70px;
+    border: none;
+    
+   
+}
+
